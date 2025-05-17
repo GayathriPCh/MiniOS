@@ -1,6 +1,6 @@
 # A Minimal 64-bit Operating System Kernel
 
-🚀 A handcrafted, minimal 64-bit kernel written in NASM and C that boots with GRUB2 using Multiboot2. Displays a welcome message using direct VGA memory access.
+A handcrafted, minimal 64-bit kernel written in NASM and C that boots with GRUB2 using Multiboot2. Displays a welcome message using direct VGA memory access.
 
 ![image](https://github.com/user-attachments/assets/a64e0d61-8d67-4516-a7c8-3d9ab21dbfa4)
 

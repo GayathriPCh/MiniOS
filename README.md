@@ -17,3 +17,6 @@ A handcrafted, minimal 64-bit kernel written in NASM and C that boots with GRUB2
 - 🔧 Tools: `nasm`, `ld`, `gcc`, `qemu`, `docker` (for consistent build)
 - 💻 Languages: Assembly (NASM), C
 - 📦 Bootloader: GRUB2 (Multiboot2)
+
+
+*Followed [this YouTube tutorial](https://www.youtube.com/watch?v=FkrpUaGThTQ&list=PLZQftyCk7_SeZRitx5MjBKzTtvk0pHMtp&index=1).*
